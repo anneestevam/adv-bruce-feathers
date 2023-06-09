@@ -5,7 +5,7 @@ export default function SecaoSobre() {
     return (
         <section id="sobre" className="secao-sobre">
             <div className="limitar-secao">
-                <h3>Quem sou?</h3>
+                <h3>Quem Sou?</h3>
                     <div className="container-sobre">
 
                         <div className="sobre-bruce">
@@ -17,7 +17,7 @@ export default function SecaoSobre() {
                         </div>
                         
                         <div className="foto-bruce">
-                            <img src="assets/bruce.jpg" />
+                            <img src="assets/bruce.jpg" alt="Foto Bruce" />
                         </div>
 
                     </div>
