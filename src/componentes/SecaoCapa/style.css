@@ -16,9 +16,14 @@
     flex-direction: column;
 }
 
-.secao-capa p, .secao-capa h1 {
+.secao-capa p, .secao-capa h1, .secao-capa h2 {
     max-width: 600px;
     text-shadow: #000 2px 2px 2px;
+}
+
+.secao-capa h2 {
+    font-size: 36px;
+    color: #fff;
 }
 
 .secao-capa p {

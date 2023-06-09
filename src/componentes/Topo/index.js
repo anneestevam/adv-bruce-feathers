@@ -8,7 +8,7 @@ export default function Topo() {
                 <img src='assets/logo.png' alt='Logo Bruce Feathers'/>
 
                 <nav>
-                <a href="#">Sobre</a>
+                <a href="#sobre">Sobre</a>
                 <a href="#">Áreas de atuação</a>
                 <a href="#">Contato</a>
                 </nav>

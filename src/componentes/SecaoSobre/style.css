@@ -1,0 +1,26 @@
+.secao-sobre {
+    width: 100%;
+    padding: 100px 20px;
+    text-align: justify;
+}
+
+.container-sobre {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.secao-sobre h3 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.foto-bruce img {
+    width: 400px;
+    padding: 0 30px;
+}
+
+.sobre-bruce p {
+    line-height: 25px;
+    margin-top: 25px;
+}

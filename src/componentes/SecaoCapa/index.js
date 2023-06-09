@@ -5,9 +5,9 @@ export default function SecaoCapa() {
     return (
         <section className="secao-capa">
             <div className="limitar-secao">
-                <p>Escritório Jurídico</p>
+                <h2>Escritório Jurídico</h2>
                 <h1>Bruce Feathers</h1>
-                <p>Excelência no atendimento e alcance dos melhores resultados para nossos clientes</p>
+                <p>Excelência no atendimento e alcance dos melhores resultados</p>
             </div>
         </section>
     )
