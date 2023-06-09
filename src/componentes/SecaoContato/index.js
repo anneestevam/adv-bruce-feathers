@@ -33,6 +33,22 @@ export default function SecaoContato() {
                         </div>
                     </div>
 
+                    <div className="contato-conteudo">
+                        <h4>Redes Sociais</h4>
+                            <div>
+                                <img src="assets/facebook.png" alt="Ícone Facebook"/>
+                                <span>/BruceFathers</span>
+                            </div>
+                            <div>
+                                <img src="assets/instagram.png" alt="Ícone Instagram" />
+                                <span>@brucefathers</span>
+                            </div>
+                            <div>
+                                <img src="assets/twitter.png" alt="Ícone Twitter" />
+                                <span>@brucefathers</span>
+                        </div>
+                </div>
+
                 </div>
             </div>
         </section>

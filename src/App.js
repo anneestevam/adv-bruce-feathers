@@ -6,6 +6,7 @@ import SecaoCapa from "./componentes/SecaoCapa";
 import SecaoSobre from "./componentes/SecaoSobre";
 import SecaoAreasAtuacao from "./componentes/SecaoAreasAtuacao";
 import SecaoContato from "./componentes/SecaoContato";
+import Rodape from "./componentes/Rodape";
 
 export default function App () {
     return (
@@ -15,6 +16,7 @@ export default function App () {
             <SecaoSobre />
             <SecaoAreasAtuacao />
             <SecaoContato />
+            <Rodape />
         </div>
     )
 }
