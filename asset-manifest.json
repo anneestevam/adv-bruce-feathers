@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adv-bruce-feathers/static/css/main.06ab1989.css",
+    "main.js": "/adv-bruce-feathers/static/js/main.7ab34866.js",
+    "static/js/787.fc6e2b3b.chunk.js": "/adv-bruce-feathers/static/js/787.fc6e2b3b.chunk.js",
+    "static/media/capa.jpg": "/adv-bruce-feathers/static/media/capa.b86161c27116d14234de.jpg",
+    "index.html": "/adv-bruce-feathers/index.html",
+    "main.06ab1989.css.map": "/adv-bruce-feathers/static/css/main.06ab1989.css.map",
+    "main.7ab34866.js.map": "/adv-bruce-feathers/static/js/main.7ab34866.js.map",
+    "787.fc6e2b3b.chunk.js.map": "/adv-bruce-feathers/static/js/787.fc6e2b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ab1989.css",
+    "static/js/main.7ab34866.js"
+  ]
+}
