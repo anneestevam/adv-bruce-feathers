@@ -10,14 +10,19 @@ header div {
 }
 
 header img {
-    width: 250px;
+    width: 200px;
 }
 
 header a{
-    font-size: 18px;
+    box-sizing: border-box;
+    font-size: 1.2em;
     color: #000;
     text-decoration: none;
     text-transform: uppercase;
     padding: 5px;
     margin: 0 5px;
+}
+
+header a:hover {
+    border-bottom: #1a19198c 2px solid;
 }
